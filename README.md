@@ -27,7 +27,8 @@
  <img src="https://e7.pngegg.com/pngimages/306/37/png-clipart-node-js-logo-node-js-javascript-web-application-express-js-computer-software-others-miscellaneous-text-thumbnail.png" width=50px height=50px alt="NodeJs"/>
  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png" width=50px height=50px alt="Postman"/> 
  </span>
+## My Github Stats
 
- [![Venkanna babu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Venkannababu22)](https://github.com/anuraghazra/github-readme-stats)
+ ![Venkanna babu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Venkannababu22&show_icons=true&theme=radical)
  
  
