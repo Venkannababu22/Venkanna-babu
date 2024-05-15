@@ -14,7 +14,7 @@
     width=50px height=50px alt="linkdinlogo"/>
  </a>
  <a href="https://www.gmail.com">
-  <img src="![EmjoiGIF](https://github.com/Venkannababu22/Venkanna-babu/assets/138277506/e1f07601-87f4-4e52-a604-2deb03860713)" 
-    width=50px height=50px alt="linkdinlogo"/>
+  <img src="https://static.vecteezy.com/system/resources/previews/022/484/516/original/google-mail-gmail-icon-logo-symbol-free-png.png" 
+    width=50px height=50px alt="gmaillogo"/>
  </a>
  
