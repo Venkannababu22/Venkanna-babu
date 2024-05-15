@@ -24,6 +24,9 @@
  <img src="https://e1.pngegg.com/pngimages/326/868/png-clipart-css3-badge-blue-and-white-css-icon-thumbnail.png" width=50px height=50px alt="CSS"/>
  <img src="https://brandslogos.com/wp-content/uploads/images/large/javascript-logo.png" width=50px height=50px alt="JS"/>
  <img src="https://cdn.iconscout.com/icon/free/png-256/free-react-1-282599.png?f=webp" width=50px height=50px alt="React"/>
+ <img src="https://e7.pngegg.com/pngimages/306/37/png-clipart-node-js-logo-node-js-javascript-web-application-express-js-computer-software-others-miscellaneous-text-thumbnail.png" width=50px height=50px alt="React"/>
+
+ 
  
  
  
