@@ -8,4 +8,5 @@
   - 💬 Have a look at my <a href="https://www.crio.do/learn/portfolio/yellamellivenkannababu22/">Portfolio</a>
   - You can connect with me on <a href="https://www.linkedin.com/in/venkannababu22">LinkedIn</a>
 ## ✉️Connect with me
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png" alt="linkdinlogo"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png" 
+    width={60} height={60} alt="linkdinlogo"/>
