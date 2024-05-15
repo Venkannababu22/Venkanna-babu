@@ -1,4 +1,4 @@
-# Hi👋, I am Venkanna babu from Hyderabad, India 
+<h1 ctyle="text-align:center"> Hi👋, I am Venkanna babu from Hyderabad, India </h1>
 ## 🙋‍♂️About Me
   - 🌱 I’m a student pursuing Full Stack Web Development at Crio
   - 👯 Looking forward to launching my career as an SDE
