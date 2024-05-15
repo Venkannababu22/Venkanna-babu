@@ -11,10 +11,10 @@
 ## ✉️Connect with me
  <a href="https://www.linkedin.com/in/venkannababu22">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png" 
-    width=50px height=50px alt="linkdinlogo"/>
+    width=50px style="padding=6px"  height=50px alt="linkdinlogo"/>
  </a>
  <a href="https://www.gmail.com">
-  <img style="padding=6px" src="https://static.vecteezy.com/system/resources/previews/022/484/516/original/google-mail-gmail-icon-logo-symbol-free-png.png" 
+  <img src="https://static.vecteezy.com/system/resources/previews/022/484/516/original/google-mail-gmail-icon-logo-symbol-free-png.png" 
     width=50px height=50px alt="gmaillogo"/>
  </a>
  
