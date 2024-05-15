@@ -13,4 +13,8 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png" 
     width=50px height=50px alt="linkdinlogo"/>
  </a>
+ <a href="https://www.gmail.com">
+  <img src="![EmjoiGIF](https://github.com/Venkannababu22/Venkanna-babu/assets/138277506/e1f07601-87f4-4e52-a604-2deb03860713)" 
+    width=50px height=50px alt="linkdinlogo"/>
+ </a>
  
