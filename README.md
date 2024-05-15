@@ -19,7 +19,9 @@
  </a>
 
  ## Languages & Tools
+ <span>
  <img src="https://www.w3.org/html/logo/downloads/HTML5_Logo_512.png" width=50px height=50px alt="HTML"/>
- <img src="https://e7.pngegg.com/pngimages/893/87/png-clipart-cascading-style-sheets-logo-css3-html-css3-logo-blue-angle-thumbnail.png" width=50px height=50px alt="CSS"/>
+ <img src="https://e1.pngegg.com/pngimages/326/868/png-clipart-css3-badge-blue-and-white-css-icon-thumbnail.png" width=50px height=50px alt="CSS"/>
+ </span>
  
  
