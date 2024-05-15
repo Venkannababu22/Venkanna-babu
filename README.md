@@ -1,5 +1,6 @@
 # Hi👋, I am Venkanna babu from Hyderabad, India
 ## 🙋‍♂️About Me
+![](https://komarev.com/ghpvc/?username=Venkannababu22&color=green&label=PROFILE+VIEWS)
   - 🌱 I’m a student pursuing Full Stack Web Development at Crio
   - 👯 Looking forward to launching my career as an SDE
   - 🤔 All of my projects are available at My Github Repositories
