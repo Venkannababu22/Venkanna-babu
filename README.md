@@ -18,7 +18,7 @@
     width=50px height=50px alt="gmaillogo"/>
  </a>
 
- ## Languages & Tools
+ ## 🚀Languages & Tools
  <span>
  <img src="https://cdn.iconscout.com/icon/free/png-256/free-html-5-1-1175208.png" width=50px height=50px alt="HTML"/>
  <img src="https://e1.pngegg.com/pngimages/326/868/png-clipart-css3-badge-blue-and-white-css-icon-thumbnail.png" width=50px height=50px alt="CSS"/>
@@ -28,7 +28,6 @@
  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png" width=50px height=50px alt="Postman"/> 
  </span>
 ## My Github Stats
-
  ![Venkanna babu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Venkannababu22&show_icons=true&theme=radical)
  
  
