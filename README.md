@@ -22,8 +22,7 @@
  <span>
  <img src="https://www.w3.org/html/logo/downloads/HTML5_Logo_512.png" width=65px height=65px alt="HTML"/>
  <img src="https://e1.pngegg.com/pngimages/326/868/png-clipart-css3-badge-blue-and-white-css-icon-thumbnail.png" width=50px height=50px alt="CSS"/>
- <img src="![image](https://github.com/Venkannababu22/Venkanna-babu/assets/138277506/ae28b6cb-e842-445d-ad5b-8862706f1d0e)
-" width=50px height=50px alt="CSS"/>
+ <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fbrandslogos.com%2Fj%2Fjavascript-logo%2F&psig=AOvVaw2iGAKxTwvBd-LfadP8ibhj&ust=1715867246805000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJDB69_lj4YDFQAAAAAdAAAAABAE" width=50px height=50px alt="CSS"/>
  
  
  </span>
